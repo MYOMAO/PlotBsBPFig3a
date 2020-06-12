@@ -1,0 +1,2 @@
+NPart   xsec   statUncertUp   statUncertDown   systUncert Up   systUncert Down   glbUncert Up   glbUncert Down 
+126   1.85517e+06   0.0885   0.0795   0.14065   0.138668   0.028   0.028
